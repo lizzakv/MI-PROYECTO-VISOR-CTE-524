@@ -1,5 +1,4 @@
 # VISOR-CTE-524
-Subir proyecto a github
 <!DOCTYPE html>
 <html>
 <section class="webdesigntuts-workshop">
